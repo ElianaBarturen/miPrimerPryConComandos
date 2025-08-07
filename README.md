@@ -30,3 +30,11 @@
 
 # 5. CREAR REPOSITORIO EN GITHUB 
 ###### gh repo create miPrimerPryConComandos --public --source=. --remote=origin --push
+
+# -------------------- RAMAS -----------
+##### git branch  --> ver ramas existentes
+##### git branch main  --> crear nueva rama (main)
+##### git checkout main  --> camboiar de rama 
+##### git push origin nombre-rama  --> subir la nueva rama
+##### git push origin main
+ 
