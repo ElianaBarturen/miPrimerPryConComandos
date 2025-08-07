@@ -2,8 +2,8 @@
 # COMANDOS CREAR ARCHIVO
 
 # 1. CREAR UNA CARPETA Y ENTRAR EN ELLA 
-##### mkdir miPrimerPryConComandos  -> crear carpeta con nombre
-##### cd miPrimerPryConComandos     -> entrar en esa CARPETA
+###### mkdir miPrimerPryConComandos  -> crear carpeta con nombre
+###### cd miPrimerPryConComandos     -> entrar en esa CARPETA
 
 
 # 2. INICIALIZAR GIT 
