@@ -15,6 +15,7 @@
 # 4. AGREGAR Y HACER COMMIT
 ###### git add .   ->> todos los cambios
 ###### git commit -m "mi primer commit"   ->> subir comit con nombre
+
 ###### git add nombreDelArchivo  ->> solo un archivo en especifico
 ###### git add app.js    -> si solo quiero agregar ese archivo
 ###### git commit -m "Actualizo funciones en app.js" --> ese archivo con nombre del commit
@@ -30,3 +31,11 @@
 
 # 5. CREAR REPOSITORIO EN GITHUB 
 ###### gh repo create miPrimerPryConComandos --public --source=. --remote=origin --push
+
+# -------------------- RAMAS -----------
+###### git branch  --> ver ramas existentes
+###### git branch main  --> crear nueva rama (main)
+###### git checkout main  --> camboiar de rama 
+###### git push origin nombre-rama  --> subir la nueva rama
+###### git push origin main
+ 
