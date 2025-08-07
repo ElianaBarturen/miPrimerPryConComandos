@@ -15,6 +15,7 @@
 # 4. AGREGAR Y HACER COMMIT
 ###### git add .   ->> todos los cambios
 ###### git commit -m "mi primer commit"   ->> subir comit con nombre
+
 ###### git add nombreDelArchivo  ->> solo un archivo en especifico
 ###### git add app.js    -> si solo quiero agregar ese archivo
 ###### git commit -m "Actualizo funciones en app.js" --> ese archivo con nombre del commit
