@@ -14,5 +14,9 @@
 - cp archilinux1.txt archilinux1copia.txt --> copiamos archivo y lo renombramos
 - ls  --> listar los archivos
 
+# MOVER ARCHIVOS A OTRA CARPETA
+- mv apuntes-linux.md practica-linux/   --> mover el archivo .md a la carpeta/
+- ls  --> listar
+
 
 
