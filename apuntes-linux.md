@@ -1,3 +1,6 @@
+# Si solo tienes Windows sin WSL INSTALAR WSL PARA ENTORNO LINUX
+- wsl --install   -->  Instala WSL (Windows Subsystem for Linux)
+
 # MIS APUNTES CON LINUX
 - touch apuntes-linux.md  --> crear el archivo para los apuntes
 - mkdir practica-linux   --> crear carpeta para linux
@@ -17,6 +20,10 @@
 # MOVER ARCHIVOS A OTRA CARPETA
 - mv apuntes-linux.md practica-linux/   --> mover el archivo .md a la carpeta/
 - ls  --> listar
+
+# BUSCAR ARCHIVO POR NOMBRE
+- find . -name "archilinux2.txt"  --> buscar archivo por nombre
+
 
 
 
