@@ -13,6 +13,5 @@
 # COPIAR ARCHIVOS Y RENOMBRALOS
 - cp archilinux1.txt archilinux1copia.txt --> copiamos archivo y lo renombramos
 - ls  --> listar los archivos
-
-
+- 
 
