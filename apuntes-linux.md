@@ -28,4 +28,13 @@
 - rm archilinux2.txt  --> eliminar archivo
 - rm -r carpeta  --> eliminar un directorio
 
+### PERMISOS
+# VER PERMISOS ACTUALES
+- ls -l
+
+# QUE SIGNIFICA?
+- -rw-r--r--       -----> Se divide en: usuario(dueño) | grupo | otros
+- r: read  w: write  x: execute  ---> significado de cada letra
+
+
 
