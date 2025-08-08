@@ -24,6 +24,8 @@
 # BUSCAR ARCHIVO POR NOMBRE
 - find . -name "archilinux2.txt"  --> buscar archivo por nombre
 
-
+# ELIMINAR ARCHIVOS 
+- rm archilinux2.txt  --> eliminar archivo
+- rm -r carpeta  --> eliminar un directorio
 
 
